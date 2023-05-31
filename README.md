@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-camelo-670940278)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italo2403&show_icons=true&theme=radical)
+![Anurag's GitHub stats]()
 
 
 ## Linguagens utilizadas
