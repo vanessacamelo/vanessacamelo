@@ -1,10 +1,10 @@
 ### Olá, sou Vanessa Camelo!
 • Estudante de Desenvolvimento de Sistemas
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-camelo-670940278)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-camelo)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessaclins&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vanessaclins&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessacamelo&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vanessacamelo&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 
 
