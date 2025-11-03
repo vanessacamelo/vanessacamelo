@@ -1,5 +1,6 @@
 ### Olá, sou Vanessa Camelo!
-• Estudante de Desenvolvimento de Sistemas
+• Estudante de Ciência da Computação
+• Técnica em Desenvolvimento de Sistemas
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-camelo)
 
