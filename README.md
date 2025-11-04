@@ -1,22 +1,26 @@
-### Olá, sou Vanessa Camelo!
-• Estudante de Ciência da Computação
-• Técnica em Desenvolvimento de Sistemas
+### Olá, eu sou Vanessa Camelo!
+• Estudante de Ciência da Computação 👨‍💻 <br>
+• Técnica em Desenvolvimento de Sistemas 💻
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-camelo)
+<div style="display:inline_block" align="center">
+<a href="https://www.linkedin.com/in/vanessa-camelo/" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="LinkedIn" alt="LinkedIn" width="68" height="68"/>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessacamelo&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vanessacamelo&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
-
-
-
-
+  
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanessacamelo&show_icons=true&theme=dark&border_radius=15" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessacamelo&layout=compact&theme=dark&border_radius=15" alt="Top Languages"/>
+</div>
 
 ## Linguagens utilizadas
 
 
-<div style="display:inline_block"><br>
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<div style="display:inline_block" align="center"><br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="48" height="48"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="48" height="48"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="48" height="48"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="48" height="48"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="48" height="48"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="48" height="48"/>
 </div><br>
